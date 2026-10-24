@@ -1,0 +1,8 @@
+.btn:hover {
+    background-color: #354dad;
+    color: #dddddd;
+}
+
+.card {
+    margin: 1em 1em 1em 0;
+}
